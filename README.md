@@ -31,6 +31,6 @@ This project allows you to:
 The Cool Converter program runs directly in the terminal. To start:
 
 ```bash
-git clone https://github.com/yourusername/Cool_Converter.git
+git clone https://github.com/DeSpiner/Cool_Converter.git
 cd Cool_Converter
 python main.py
