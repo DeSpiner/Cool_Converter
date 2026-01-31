@@ -28,6 +28,9 @@ This project allows you to:
 
 ## How to Run
 
-1. Clone the repository:
+The Cool Converter program runs directly in the terminal. To start:
+
 ```bash
 git clone https://github.com/yourusername/Cool_Converter.git
+cd Cool_Converter
+python main.py
